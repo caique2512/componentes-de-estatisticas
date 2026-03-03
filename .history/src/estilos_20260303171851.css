@@ -1,0 +1,26 @@
+.conteudo {
+    background-color: #1C1937;
+    display: flex;
+    max-width: calc(100% - 20%);
+}
+
+.conteudo-principal {
+    padding: 70px;
+    width: 500px;
+}
+
+.conteudo-principal .titulo {
+    color: white;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.conteudo-principal .titulo span {
+    color: #784B99;
+}
+
+.conteudo-principal .subtitulo {
+    color: #8381a1;
+    font-weight: 500;
+}

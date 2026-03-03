@@ -1,0 +1,6 @@
+.conteudo {
+    background-color: #1C1937;
+    display: flex;
+    max-width: calc(100% - 20%);
+    margin: 0 auto;
+}
